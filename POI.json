@@ -1,0 +1,12 @@
+{
+    "_id": "<objectId>",
+     "name": "<string>",
+     "device_id":["<int>"],
+   
+    "Access":[ {
+      "date": "<date>",
+      "time": "<timestamp>",
+      "card_id" :"<int>"
+    }]
+  }
+  

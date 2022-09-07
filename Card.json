@@ -1,0 +1,9 @@
+{
+    "_id":"<objectId>",
+    "schema" : "<int>",
+    "profile" : "<string>",
+    "serialCode":"<string>",
+    "activationDate":"<date>"
+  
+  }
+  

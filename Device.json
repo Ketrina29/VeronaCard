@@ -1,0 +1,15 @@
+
+{
+  "_id":"<objectId>",
+  "code" :"<int>",
+  "card_id":["<int>"],
+
+  "visits": [{
+    "day":"<int>",
+    "month":"<int>",
+    "year" :"<int>",
+    "tot_num":"<int>",
+    "count_vis":"<int>"
+  }]
+
+}

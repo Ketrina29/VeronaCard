@@ -1,0 +1,4 @@
+-Assegnato un mese di un anno, trovare per ogni giorno del mese il numero totale di accessi ad una POI dati in input
+-Trovare il POI che ha avuto il numero minimo di accessi in un giorno assegnato
+-Dato un profilo, trovare i codici delle veronacard (id) con quel profilo che hanno fatto almeno due strisciate in uno stesso giorno.
+

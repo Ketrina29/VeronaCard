@@ -1,0 +1,23 @@
+ {
+        "_id":"<objectId>",
+        "schema" : "<int>",
+        "profile" : "<string>",
+        "serialCode":"<string>",
+      
+      },
+     {
+      "_id":"<objectId>",
+      "code" :"<int>",
+      "nrOfActiveDevices" : "<int>",
+      "card_id":["<int>"],
+    
+      "visits": [{
+        "day":"<int>",
+        "month":"<int>",
+        "year" :"<int>",
+        "tot_num":"<int>",
+        "count_vis":"<int>"
+}]
+    }
+    
+  }
